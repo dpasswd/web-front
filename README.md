@@ -31,3 +31,36 @@ https://dpasswd.com/
 ### 密码分享
 
 密码分享通过公钥加密，私钥解密完成整个分享过程，公钥会存储在center中，全员共享，分享人通过center获取被分享人的公钥完成密码加密，被分享人通过本地私钥解密加密串获取密码原文。私钥只存储在本机，并需要你妥善保管私钥，建议你加密备份一份，如果私钥泄露，你分享中的密码都有可能会被窃取。
+
+## web前端简介
+
+
+
+
+### 备份
+
+![]( https://dpasswd.com/wiki/web-1.png )
+
+### 分享
+
+![]( https://dpasswd.com/wiki/web-2.png )
+
+### 用户管理
+
+![]( https://dpasswd.com/wiki/web-3.png )
+
+### 常规设置
+
+![]( https://dpasswd.com/wiki/web-4.png )
+
+### 登陆设置
+
+![]( https://dpasswd.com/wiki/web-5.png )
+
+### 邮件设置
+
+![]( https://dpasswd.com/wiki/web-6.png )
+
+### 检测更新
+
+![]( https://dpasswd.com/wiki/web-7.png )
